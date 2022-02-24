@@ -1,4 +1,6 @@
 # repo-kr
-Pierwsze repo z tutotiala
+1. Pierwsze repo z tutotiala
 
-tekst z lapa
+2. tekst z lapa
+
+3. kolejny tekst z github 
