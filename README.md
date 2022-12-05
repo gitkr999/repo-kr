@@ -1,2 +1,2 @@
 # repo-kr
-Pierwsze repo z tutotiala
+only for test
